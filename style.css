@@ -1,0 +1,58 @@
+body{
+    background-color: hsl(215, 54%, 11%);
+}
+.card{
+    background:hsl(216, 50%, 16%) ;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 15px;
+    color: hsl(215, 51%, 70%);
+    
+}
+#nft-image{
+    width: 100%;
+    border-radius: 20px;
+}
+#name{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card-details{
+    display:flex;
+    justify-content: space-between;
+}
+.price, .time{
+    display: flex;
+    align-items: center;
+}
+.price{
+    color: hsl(178, 100%, 50%);
+}
+#eth-icon{
+    width: 10px;
+    height: 16px;
+}
+#clock-icon{
+    width: 18px;
+    height: 18px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+}
+#avatar{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+#eth-icon,#clock-icon, #avatar{
+    margin-right: 10px;
+}
+#name{
+    color: white;
+}
