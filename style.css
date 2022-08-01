@@ -2,7 +2,7 @@ body{
     background-color: hsl(215, 54%, 11%);
 }
 .card{
-    background:hsl(216, 50%, 16%) ;
+    background:hsl(216, 50%, 16%);
     width: 350px;
     display: block;
     margin-left: auto;
