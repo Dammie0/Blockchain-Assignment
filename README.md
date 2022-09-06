@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Dammie0/Blockchain-Assignment.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Dammie0/Blockchain-Assignment.git](https://github.com/Dammie0/Blockchain-Assignment.git)
+- Live Site URL: [https://nft-card11.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
